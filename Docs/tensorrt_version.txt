@@ -1,0 +1,9 @@
+ii  libnvinfer-bin                                8.2.1-1+cuda10.2                           arm64        TensorRT binaries
+ii  libnvinfer-dev                                8.2.1-1+cuda10.2                           arm64        TensorRT development libraries and headers
+ii  libnvinfer-doc                                8.2.1-1+cuda10.2                           all          TensorRT documentation
+ii  libnvinfer-plugin-dev                         8.2.1-1+cuda10.2                           arm64        TensorRT plugin libraries
+ii  libnvinfer-plugin8                            8.2.1-1+cuda10.2                           arm64        TensorRT plugin libraries
+ii  libnvinfer-samples                            8.2.1-1+cuda10.2                           all          TensorRT samples
+ii  libnvinfer8                                   8.2.1-1+cuda10.2                           arm64        TensorRT runtime libraries
+ii  python3-libnvinfer                            8.2.1-1+cuda10.2                           arm64        Python 3 bindings for TensorRT
+ii  python3-libnvinfer-dev                        8.2.1-1+cuda10.2                           arm64        Python 3 development package for TensorRT
